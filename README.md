@@ -23,6 +23,10 @@ The application will be invoked by using the following command:
   npm install 
 ``` 
 
+```bash
+  npm start
+``` 
+
 ### Usage ⚡
 Allows users to entere expenses offline and will populate the total when borught back online. 
 
