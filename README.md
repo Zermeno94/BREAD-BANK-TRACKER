@@ -28,7 +28,10 @@ Allows users to entere expenses offline and will populate the total when borught
 
 ### Demo 🎥
 
-* [Link to Demo]()
+![Bread Bank Tracker](https://user-images.githubusercontent.com/87839888/145936173-8c91b024-a5c4-4632-b60e-607910ddab6d.png)
+
+
+* [Link to Demo](https://watch.screencastify.com/v/5VkGvkm93b2nYJ9hk7Mi)
 
 ### GitHub & Deploy Link
 
@@ -68,3 +71,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
