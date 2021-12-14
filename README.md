@@ -4,7 +4,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) 
 
 ## Description
-Welcome to the Bread Bank Tracker! This application will user to add expenses and deposit to their budget with or without connection.
+Welcome to the Bread Bank Tracker! This application will allow users to add expenses and deposit to their budget with or without connection.
 
 
 ## Table of Contents 🔎
