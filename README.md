@@ -46,7 +46,8 @@ Allows users to entere expenses offline and will populate the total when borught
 ## Resources & Tutorials  💻
 
 * [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md](#https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
-
+*[https://developer.mozilla.org/en-US/docs/Web/Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+*[https://www.npmjs.com/package/compression](https://www.npmjs.com/package/compression)
 
 
 ## License 📍
